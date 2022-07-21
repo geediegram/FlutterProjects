@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/geediegram/StudioProjects/firebase_demo/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/geediegram/.gradle/caches/transforms-3/ee98342ba92e2f798e50b733cc59df90/transformed/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/geediegram/StudioProjects/firebase_demo/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/geediegram/.gradle/caches/transforms-3/ee98342ba92e2f798e50b733cc59df90/transformed/core-1.6.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/geediegram/StudioProjects/firebase_demo/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/geediegram/.gradle/caches/transforms-3/ee98342ba92e2f798e50b733cc59df90/transformed/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/geediegram/StudioProjects/firebase_demo/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/home/geediegram/.gradle/caches/transforms-3/ee98342ba92e2f798e50b733cc59df90/transformed/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/home/geediegram/StudioProjects/firebase_demo/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/geediegram/.gradle/caches/transforms-3/ee98342ba92e2f798e50b733cc59df90/transformed/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/geediegram/StudioProjects/firebase_demo/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/geediegram/.gradle/caches/transforms-3/ee98342ba92e2f798e50b733cc59df90/transformed/core-1.6.0/res/layout/notification_template_part_time.xml"
+    }
+]

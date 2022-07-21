@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/geediegram/StudioProjects/firebase_demo/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/geediegram/.gradle/caches/transforms-3/ee98342ba92e2f798e50b733cc59df90/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/geediegram/StudioProjects/firebase_demo/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/geediegram/.gradle/caches/transforms-3/ee98342ba92e2f798e50b733cc59df90/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/geediegram/StudioProjects/firebase_demo/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/geediegram/.gradle/caches/transforms-3/ee98342ba92e2f798e50b733cc59df90/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/geediegram/StudioProjects/firebase_demo/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/geediegram/.gradle/caches/transforms-3/ee98342ba92e2f798e50b733cc59df90/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    }
+]
