@@ -1,0 +1,38 @@
+syntax = "proto3";
+
+package proto1;
+
+message RegisterRequest {
+  int32 Id = 1;
+  string Name = 2;
+  string EmailAddress = 3;
+  string DeliveryAddress = 4;
+  string PhoneNumber = 5;
+  string Password = 6;
+}
+
+message LoginRequest {
+//  string id = 1;
+  string Email = 2;
+  string Password = 3;
+}
+
+message UpdateCoffee {
+  string name = 1;
+  string sugar = 2;
+  int32 strength = 3;
+  int32 cups = 4;
+}
+
+message Response {
+  string msg =1;
+}
+
+message Close {}
+
+
+service CoffeeUserServices {
+  rpc Register(RegisterRequest) returns (Response);
+  rpc Login(LoginRequest) returns (Response);
+  rpc UpdateUserCoffee(UpdateCoffee) returns (Response);
+}
